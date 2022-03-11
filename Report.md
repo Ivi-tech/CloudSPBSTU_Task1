@@ -25,7 +25,7 @@
 
 Далее сконфигурировано 2 виртуальных интерфейса с разными ip:
 
-![info](./Assets/Images/SetUpB.png)
+![info](./Assets/Images/SepUpB.png)
 
 Конфигурация запросов в Ubuntu B через порт 5000:
 
