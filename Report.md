@@ -5,12 +5,12 @@
 
 # 1. Ubuntu A
 Сперва был создан пользователь и сконфигурирован hostname 
-![info](./Assets/images/ConfA.png)
+![info](./Assets/Images/ConfA.png)
 
 Далее был сконфигурирован интерфейс с определенным ip
-![info](./Assets/images/SetUpA.png)
+![info](./Assets/Images/SetUpA.png)
 
 Был развернут http сервер на порту 5000
-![info](./Assets/images/A5000.png)
+![info](./Assets/Images/A5000.png)
 
 # 2. Ubuntu B
