@@ -13,9 +13,11 @@
 
 ![info](./Assets/Images/SetUpA.png)
 
-Был развернут http сервер на порту 5000:
+Лог сервера:
 
-![info](./Assets/Images/A5000.png)
+![info](./Assets/Images/Cor1.png)
+
+![info](./Assets/Images/Cor2.png)
 
 # 2. Ubuntu B
 
